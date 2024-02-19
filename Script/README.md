@@ -3,4 +3,4 @@
 2. Run the script
 
 ***Note***:
-If the amount of the data is large the process may take longer time to complete (4-5 hr) depending on the system configuration.
+Depending on the system configuration the duration of the process may extend to 4-5 hours or more if the dataset size is large.
